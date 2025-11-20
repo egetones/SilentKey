@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕷️ SilentKey
+# SilentKey
 
 ![C++](https://img.shields.io/badge/C++-Linux_Kernel-blue?style=flat&logo=c%2B%2B)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -16,7 +16,7 @@
 
 ---
 
-## 📖 Description
+## Description
 
 **SilentKey** is a cybersecurity research tool designed to demonstrate how input capturing works on Linux systems at the kernel level.
 
