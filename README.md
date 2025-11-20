@@ -10,7 +10,7 @@
   <strong>A Proof-of-Concept Linux Keylogger interacting directly with Kernel Input Subsystem.</strong>
 </p>
 
-[Report Bug](https://github.com/your-username/silentkey/issues) · [Request Feature](https://github.com/your-username/silentkey/issues)
+[Report Bug](https://github.com/egetones/silentkey/issues) · [Request Feature](https://github.com/egetones/silentkey/issues)
 
 </div>
 
